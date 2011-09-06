@@ -1,0 +1,1 @@
+For use with PyGame. I basically tried abstracting things into an MVC pattern, but I'm not sure that's really the best way to go about coding if PyGame is going to be its base (or even at all really). Nevertheless, some useful pieces of code here.
